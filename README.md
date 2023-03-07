@@ -27,7 +27,6 @@
   <a href="https://www.linkedin.com/in/ivaldo belisario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ivaldo-belisario
-/ivaldo-belisario
 /blob/output/github-contribution-grid-snake.svg)
 
 </div>
